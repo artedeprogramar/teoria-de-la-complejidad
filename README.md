@@ -1,5 +1,8 @@
 <h1 align="center">🐍 Teoría de la complejidad 🎬</h1>
 
+![Teoría de la Complejidad](./.github/thumbnail.png)
+
+
 > ¡Hola! En unas semanas se estrenará mi curso sobre **Complejidad Algorítmica** en Platzi. Abarcará muchos más temas que nuestra serie de vídeos. Si quieres estar al tanto **[sígueme en Twitter](https://twitter.com/360macky)**, **[Instagram](https://www.instagram.com/360macky/)** o **[completa este formulario con tu correo](https://forms.gle/mirWQ1bUJ8ojnqZM8)** y te avisaré tan pronto sea publicado.
 
 

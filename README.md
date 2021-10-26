@@ -20,4 +20,4 @@ Existen muchas formas para **determinar la complejidad de un algoritmo**. Estas 
 ¿Existe algún error en el código? ¿Deseas replantear mejor el problema? ¿Quieres compartir el mismo algoritmo en otro lenguaje? No dudes en abrir un [Pull Request](), si quieres realizar un cambio en este repositorio.
 
 ## 💚 #NuncaParesDeAprender
-> [🎁 Mes gratis en Platzi desde Arte de programar en los planes Expert y Expert+](https://platzi.com/c/macky/)
+> [🎁 Descuento de $100 en Platzi Expert+](https://unete.platzi.com/p/?utm_campaign=af_z8nz47zasr9n20g7hz8nz47zi3etbtjj)

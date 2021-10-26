@@ -3,7 +3,7 @@
 ![Teoría de la Complejidad](./.github/thumbnail.png)
 
 
-> ¡Hola! En unas semanas se estrenará mi curso sobre **Complejidad Algorítmica** en Platzi. Abarcará muchos más temas que nuestra serie de vídeos. Si quieres estar al tanto **[sígueme en Twitter](https://twitter.com/360macky)**, **[Instagram](https://www.instagram.com/360macky/)** o **[completa este formulario con tu correo](https://forms.gle/mirWQ1bUJ8ojnqZM8)** y te avisaré tan pronto sea publicado.
+> ¡Hola! En unas semanas se estrenará mi curso sobre **[Complejidad Algorítmica](https://platzi.com/cursos/complejidad-js) en Platzi**. Abarcará muchos más temas que nuestra serie de vídeos. Si quieres estar al tanto **[sígueme en Twitter](https://twitter.com/360macky)**, **[Instagram](https://www.instagram.com/360macky/)**.
 
 
 Existen muchas formas para **determinar la complejidad de un algoritmo**. Estas son las dos que he resaltado en el vídeo de **¿Cómo obtener la complejidad temporal de un algoritmo?**
